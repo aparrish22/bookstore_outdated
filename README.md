@@ -1,2 +1,2 @@
 # bookstore_outdated
-Final Bookstore Missing. Final bookstore project was built using this outdated folder.
+Final Bookstore Missing. This is what I managed to find from Spring 2018.
